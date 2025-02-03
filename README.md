@@ -6,10 +6,10 @@ OBJECTIVE
 
 A bank dashboard  with multiple brancher in different cities is created. 
 
-![Screenshot 2023-12-17 141517](https://github.com/user-attachments/assets/c36625bf-6fe1-47d0-9efd-38f46cf8d609)
 
 
 
+![Screenshot 2023-12-17 141517](https://github.com/user-attachments/assets/e60a7698-4db6-4a7f-bcbc-73481f1d63b6)
 
 
 https://github.com/user-attachments/assets/3ebe1e44-e18e-4a02-a5d0-dba19c7a3a42
